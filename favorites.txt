@@ -1,3 +1,9 @@
+Movies:
+Movie1
+Movie2
+Movie3
+
+Fruits:
 - Mango
 - Banana
 - Apple
